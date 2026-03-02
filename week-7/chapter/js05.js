@@ -6,6 +6,7 @@
       Application to generate a slide show
       Author: Clifford Smith
       Date: 3/1/26
+      Note: This code doesn't work and I think it's because two systems are fighting each other. Also, maybe I missed it in the reading, but where is the "gallery?" in the html file? I don't see it anywhere, but maybe I just missed it. I also don't know how to fix the problem of the two systems fighting each other, so if you have any advice on that, please let me know. Thanks!
 
       Filename: js05.js
 */
